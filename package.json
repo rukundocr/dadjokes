@@ -1,0 +1,19 @@
+{
+  "name": "DadJokes",
+  "version": "1.0.0",
+  "description": "list dadjokes ",
+  "author": "RUKUNDO Jean Claude",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "materialize-css": "^1.0.0-rc.2",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
